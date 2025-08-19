@@ -16,8 +16,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=CLARAMINDELO&show_icons=true&theme=radical)
 
 ## 🎯 Projetos em Destaque
-- 🔗 [Sistema-ponto](https://github.com/claramindelo/sistema-ponto) - Breve descrição
-- 🔗 [Outro Projeto]() - Breve descrição
+- 🔗 [Sistema-ponto](https://github.com/claramindelo/sistema-ponto) - Um sistema web de ponto para controle de jornada CLT desenvolvida em html/javascript/css/js para praticar o uso das funcionalidades de programação e calculo de horas.
+- 🔗 [Calculadora-simples](https://github.com/claramindelo/calculadora-simples) - Uma calculadora simples desenvolvida em linguagem Python/JavaScript para praticar conceitos básicos de programação e lógica matemática.
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](seu-linkedin)
