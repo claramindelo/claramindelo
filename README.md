@@ -2,8 +2,8 @@
 
 ## 🎓 Sobre mim
 - 🌱 Estudante de **Ciência da Computação**
-- 📚 Iniciante em programação, sempre buscando aprender mais
-- 💡 Interessado em desenvolvimento web e tecnologias emergentes
+- 📚 Iniciante em programação e análise de dados, sempre buscando aprender mais
+- 💡 Interessado em desenvolvimento web, analytics e machine learning
 
 ## 🛠️ Tecnologias que estou aprendendo
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
